@@ -5,7 +5,7 @@
 
 *when we are dealing with categorical data( True or False, Yes or No etc) we are using logistice algorithm and 
 when we are trying to predict result by dependent variable*<br>
-**y=1/1+e^-x**<br>
+**y=1/1+e^-x euler's constant = 2.71828**<br>
 
 3. Decision Tree
 4. SVM

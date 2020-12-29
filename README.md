@@ -3,9 +3,9 @@
 1. Linear Regression
 2. Logistic Regression
 
-*when we are dealing with categorical data( True or False, Yes or No etc) we are using logistice algorithm
-when we are trying to predict result by dependent variable*
-**y=1/1+e^-x**
+*when we are dealing with categorical data( True or False, Yes or No etc) we are using logistice algorithm and 
+when we are trying to predict result by dependent variable*<br>
+**y=1/1+e^-x**<br>
 3. Decision Tree
 4. SVM
 5. Naive Bayes
